@@ -302,17 +302,20 @@ http://localhost:3000
 
 You can access the various functionality of the Theatre Booking System from this URL.
 
-## Using the `start-app.bat` Script
+## Using the `setup.bat` `start-app.bat` Script
 
-To automatically start all services in separate terminal windows, simply run the `start-app.bat` file:
+To automatically start all services in separate terminal windows, simply run the `setup.bat` and `start-app.bat` files:
 
-1. Double-click the `start-app.bat` file from the project root.
-2. It will start all four backend services and the frontend in separate command windows.
+1. Double-click the `setup.bat` file from the project root.
+2. Double-click the `start-app.bat` file from the project root.
+3. It will start all four backend services and the frontend in separate command windows.
 
 If you prefer, you can also run the following command in the terminal:
 ```bash
+start setup.bat
 start start-app.bat
 ```
+Note: You only need to run `setup.bat` once. After setup is complete, you can only the `start-app.bat` file
 
 ## Stopping the Services
 

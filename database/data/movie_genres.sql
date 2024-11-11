@@ -1,0 +1,16 @@
+INSERT INTO movie_genres (movie_genre_name) VALUES
+('Action'),
+('Adventure'),
+('Comedy'),
+('Drama'),
+('Fantasy'),
+('Horror'),
+('Thriller'),
+('Romance'),
+('Sci-Fi'),
+('Animation'),
+('Documentary'),
+('Mystery'),
+('Crime'),
+('Musical'),
+('Biography');

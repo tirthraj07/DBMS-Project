@@ -1,10 +1,13 @@
+export const dynamic = 'force-dynamic'
+export const fetchCache = 'force-no-store';
+
 import { NextRequest, NextResponse } from "next/server";
 
-export async function GET(request: NextRequest, { params }:{
-    params:{
-        movie_id:string
+export async function GET(request: NextRequest, { params }: {
+    params: {
+        movie_id: string
     }
-}){
+}) {
 
     const fetchMovieResponse = await fetch(`${process.env.MOVIE_SERVICE_API}/api/v1/movies/${params.movie_id}`)
     const fetchMovie = await fetchMovieResponse.json()
@@ -13,12 +16,12 @@ export async function GET(request: NextRequest, { params }:{
 
     const movieShowtimesResponse = await fetch(`${process.env.THEATRE_SERVICE_API}/api/v1/showtimes?movie_id=${params.movie_id}`)
     const movieShowtimes = await movieShowtimesResponse.json();
-    
 
-    const payload = {...fetchMovie, showtimes:movieShowtimes.data}
+
+    const payload = { ...fetchMovie, showtimes: movieShowtimes.data }
 
     // fetch showtimes from `${process.env.THEATRE_SERVICE_API}/api/v1/showtimes?movie_id=${params.movie_id}`
 
 
-    return NextResponse.json(payload,{status:200})
+    return NextResponse.json(payload, { status: 200 })
 }

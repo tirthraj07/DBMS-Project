@@ -6,7 +6,7 @@ VALUES
 (1,'https://m.media-amazon.com/images/M/MV5BMGExNGI1NDktOWI2Mi00NDM3LWIxMmQtNTQxYTgzMzI0MTA1XkEyXkFqcGc@._V1_.jpg'),
 
 -- Pathaan 
-(2, 'https://assets-in.bmscdn.com/discovery-catalog/events/et00323848-wukccuhwtt-landscape.jpg'),
+(2, 'https://bollywoodmovieposters.com/wp-content/uploads/2023/01/pathan-poster-shahrukh-khan-movie-srk.jpg'),
 (2, 'https://i0.wp.com/www.opindia.com/wp-content/uploads/2023/01/pathan__4__BKH9ZbU6T-2-e1674822395887.jpg?w=700&ssl=1'),
 (2, 'https://i.ytimg.com/vi/-rMvyYMnK3c/maxresdefault.jpg'),
 
@@ -70,6 +70,82 @@ VALUES
 (14, 'https://anandkumarrsonfilms.com/wp-content/uploads/2022/08/darlings-poster.jpg'),
 (14, 'https://i.ytimg.com/vi/Dmx5KDOpqeg/maxresdefault.jpg'),
 
+-- Liger
 (15, 'https://assets.gadgets360cdn.com/pricee/assets/product/202203/Liger-poster_1647771949.jpg'),
 (15, 'https://m.media-amazon.com/images/M/MV5BMWZiOTcwYTktMWZmNS00NjRhLWI4M2EtM2UwYjQ0Y2ZkNzBiXkEyXkFqcGc@._V1_.jpg'),
-(15, 'https://static-koimoi.akamaized.net/wp-content/new-galleries/2022/08/liger-movie-review-002.jpg');
+(15, 'https://static-koimoi.akamaized.net/wp-content/new-galleries/2022/08/liger-movie-review-002.jpg'),
+
+-- Oppenheimer
+(16, 'https://www.tallengestore.com/cdn/shop/products/Oppenheimer-CillianMurphy-RobertDowney-ChristopherNolan-HollywoodMoviePoster_5750d6fc-740f-413d-9929-e33a05d9ba34.jpg?v=1691369010'),
+(16, 'https://showtimeshowdown.com/wp-content/uploads/2023/07/Oppenheimer-Poster.jpg'),
+(16, 'https://www.hollywoodreporter.com/wp-content/uploads/2022/02/OPPENHEIMER_v02-H-2022.jpg?w=1296&h=730&crop=1'),
+
+-- Barbie
+(17, 'https://image.tmdb.org/t/p/original/3aij5sA5AhK2flrjsfrVQs93CUx.jpg'),
+(17, 'https://w0.peakpx.com/wallpaper/77/632/HD-wallpaper-barbie-2023-movie-car-barbie-poster-couple-ken-blinde-pink-ryan-gosling-margot-robbie.jpg'),
+(17, 'https://images.wallpapersden.com/image/download/barbie-2023-movie-poster_bmVmbGWUmZqaraWkpJRmbmdlrWZlbWU.jpg'),
+
+-- Mission: Impossible ? Dead Reckoning Part One
+(18, 'https://m.media-amazon.com/images/M/MV5BN2U4OTdmM2QtZTkxYy00ZmQyLTg2N2UtMDdmMGJmNDhlZDU1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg'),
+(18, 'https://images6.alphacoders.com/131/1316735.jpeg'),
+(18, 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f452aa2c-0c64-4bbf-b065-942b8dbda8bb/dfoe5l0-a5836bc5-cbd8-4d3c-9261-f0752203a7b1.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2Y0NTJhYTJjLTBjNjQtNGJiZi1iMDY1LTk0MmI4ZGJkYThiYlwvZGZvZTVsMC1hNTgzNmJjNS1jYmQ4LTRkM2MtOTI2MS1mMDc1MjIwM2E3YjEuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.UX8wcUJ2xlY950KYK4a9Eyen3GObf7HVWkwuSc2xb_Q'),
+
+-- John Wick: Chapter 4
+(19, 'https://images.wallpapersden.com/image/download/poster-of-john-wick-4-movie_bW5samqUmZqaraWkpJRnaGVurWZsaGc.jpg'),
+(19, 'https://images8.alphacoders.com/130/1304791.jpg'),
+(19, 'https://lh6.googleusercontent.com/proxy/mYsmIA05xYykjxwibwkMEazp-Ejxu0kFTlxUnL_quwP7FyA-u_89ZN7LAmDAGtJiPOaiMeHkuwiYmcHKwP9UCc-7S7IP5zXxA9iH-we9yN8pz7iX4zhwpik'),
+
+-- Dune: Part Two
+(20, 'https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg'),
+(20, 'https://w0.peakpx.com/wallpaper/698/845/HD-wallpaper-dune-part-two-imax-films-2024-poster.jpg'),
+(20, 'https://deadline.com/wp-content/uploads/2024/01/MCDDUPA_WB040.jpg?w=800'),
+
+-- Spider-Man: Across the Spider-Verse
+(21, 'https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2022/12/FkZKITxVQAAnGSf.jpg'),
+(21, 'https://i0.wp.com/halcyonrealms.com/blogpics/spidyv2posters06.jpg?resize=750%2C500&ssl=1'),
+(21, 'https://images4.alphacoders.com/131/1314281.jpeg'),
+
+-- Guardians of the Galaxy Vol. 3
+(22, 'https://m.media-amazon.com/images/M/MV5BOTJhOTMxMmItZmE0Ny00MDc3LWEzOGEtOGFkMzY4MWYyZDQ0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg'),
+(22, 'https://images4.alphacoders.com/132/1322297.jpeg'),
+(22, 'https://m.media-amazon.com/images/I/71VANA9wdCL._AC_UF1000,1000_QL80_.jpg'),
+
+-- The Flash
+(23, 'https://i0.wp.com/batman-news.com/wp-content/uploads/2023/04/The-Flash-Movie-Poster-International-01.jpeg?fit=1382%2C2048&quality=80&strip=info&ssl=1'),
+(23, 'https://m.media-amazon.com/images/M/MV5BMTgwYjY0NTQtMjYyYS00YTg5LTliYWMtNWQ0OTk0OGYxZmUzXkEyXkFqcGc@._V1_.jpg'),
+(23, 'https://images2.alphacoders.com/132/1321667.jpg'),
+
+-- Avatar: The Way of Water
+(24, 'https://m.media-amazon.com/images/M/MV5BNmQxNjZlZTctMWJiMC00NGMxLWJjNTctNTFiNjA1Njk3ZDQ5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg'),
+(24, 'https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/11/avatar-the-way-of-water-poster.jpg'),
+(24, 'https://w0.peakpx.com/wallpaper/952/379/HD-wallpaper-avatar-the-way-of-water-avatar-2-avatar-the-way-of-water-2022-movies-movies.jpg'),
+
+-- Black Panther: Wakanda Forever
+(25, 'https://m.media-amazon.com/images/M/MV5BYWY5NDY1ZjItZDQxMy00MTAzLTgyOGQtNTQxYjFiMzZjMjUyXkEyXkFqcGc@._V1_.jpg'),
+(25, 'https://images7.alphacoders.com/127/1279223.png'),
+(25, 'https://images.wallpapersden.com/image/wxl-black-panther-wakanda-forever-hd-poster_87737.jpg'),
+
+-- The Batman
+(26, 'https://m.media-amazon.com/images/M/MV5BMmU5NGJlMzAtMGNmOC00YjJjLTgyMzUtNjAyYmE4Njg5YWMyXkEyXkFqcGc@._V1_.jpg'),
+(26, 'https://images8.alphacoders.com/125/1259864.jpg'),
+(26, 'https://i.pinimg.com/736x/42/bc/35/42bc356fe3db8e6d1976a81b81cf7991.jpg'),
+
+-- No Time to Die
+(27, 'https://image.tmdb.org/t/p/original/eqWaeh21e4ZgHjwpULZVHCGIq9X.jpg'),
+(27, 'https://www.vintagemovieposters.co.uk/wp-content/uploads/2020/11/IMG_0815-scaled.jpeg'),
+(27, 'https://lh5.googleusercontent.com/proxy/mwZ0n2OJ42b-c7Mqh5JJSf8GPrkd2gvWOcl3pk8DXS8U3MY_LqBtEueG9Tli3tUFnf9zPzYqTkHXaem57RjGhfZftxQU8Q1e9XmK'),
+
+-- Top Gun: Maverick
+(28, 'https://m.media-amazon.com/images/I/81fn370ijEL._AC_UF894,1000_QL80_.jpg'),
+(28, 'https://rukminim2.flixcart.com/image/850/1000/xif0q/poster/9/m/s/large-m0201-top-gun-maverick-movie-poster-18-x-12-inch-300-gsm-original-imaggm48hxcbzwr3.jpeg?q=90&crop=false'),
+(28, 'https://wallpapercat.com/w/full/a/a/8/56525-1400x2074-samsung-hd-top-gun-maverick-wallpaper-photo.jpg'),
+
+-- Doctor Strange in the Multiverse of Madness
+(29, 'https://m.media-amazon.com/images/M/MV5BN2YxZGRjMzYtZjE1ZC00MDI0LThjZmQtZTZmMzVmMmQ2NzBmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg'),
+(29, 'https://images7.alphacoders.com/125/1259913.jpg'),
+(29, 'https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/5298bac0-b8bf-4c80-af67-725c1272dbb0/dder90u-518c071e-802a-497d-9e19-cb3431f1fed3.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUyOThiYWMwLWI4YmYtNGM4MC1hZjY3LTcyNWMxMjcyZGJiMFwvZGRlcjkwdS01MThjMDcxZS04MDJhLTQ5N2QtOWUxOS1jYjM0MzFmMWZlZDMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Qknof_0StU6eJSrNcWcGpTIQtJGkUVWHwj4RQZPrpdg'),
+
+-- Elvis
+(30, 'https://m.media-amazon.com/images/M/MV5BNTVhZmUyMDQtY2I5Ny00OWNiLTgzNjUtMTg4YTQwMTc0OTQxXkEyXkFqcGc@._V1_.jpg'),
+(30, 'https://static1.colliderimages.com/wordpress/wp-content/uploads/2022/02/elvis-poster-social.jpg'),
+(30, 'https://media.gettyimages.com/id/1137091263/photo/king-creole-poster-elvis-presley-1958.jpg?s=612x612&w=gi&k=20&c=rv8Z6SF3Dp-uzmdPEvRQj3bwerZjLi61gH-OLIFHTo0=');
